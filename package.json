@@ -1,0 +1,17 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "Simple test case",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
